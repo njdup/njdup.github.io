@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Readings on Nick Dup(e)oux</title>
-    <link>http://njdup.github.io/readings/</link>
+    <link>https://njdup.github.io/readings/</link>
     <description>Recent content in Readings on Nick Dup(e)oux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate>
     
-	<atom:link href="http://njdup.github.io/readings/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://njdup.github.io/readings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cool research dude</title>
-      <link>http://njdup.github.io/readings/fancyresearch/</link>
+      <link>https://njdup.github.io/readings/fancyresearch/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://njdup.github.io/readings/fancyresearch/</guid>
+      <guid>https://njdup.github.io/readings/fancyresearch/</guid>
       <description>Nice job, tech bros</description>
     </item>
     
