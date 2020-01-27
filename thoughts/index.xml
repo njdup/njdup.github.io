@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on Nick Dup(e)oux</title>
-    <link>http://example.org/thoughts/</link>
+    <link>http://njdup.github.io/thoughts/</link>
     <description>Recent content in Thoughts on Nick Dup(e)oux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/thoughts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://njdup.github.io/thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>my first thought ever formed</title>
-      <link>http://example.org/thoughts/firstthought/</link>
+      <link>http://njdup.github.io/thoughts/firstthought/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://example.org/thoughts/firstthought/</guid>
+      <guid>http://njdup.github.io/thoughts/firstthought/</guid>
       <description>Guess not</description>
     </item>
     
