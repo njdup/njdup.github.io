@@ -1,78 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nick Dup(e)oux</title>
+    <title>Nick Dupoux</title>
     <link>https://njdup.github.io/</link>
-    <description>Recent content on Nick Dup(e)oux</description>
+    <description>Recent content on Nick Dupoux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://njdup.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>cool research dude</title>
-      <link>https://njdup.github.io/readings/fancyresearch/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://njdup.github.io/readings/fancyresearch/</guid>
-      <description>Nice job, tech bros</description>
-    </item>
-    
-    <item>
-      <title>count min sketch</title>
-      <link>https://njdup.github.io/datastructures/count-min-sketch/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://njdup.github.io/datastructures/count-min-sketch/</guid>
-      <description>Wow, count count count!</description>
-    </item>
-    
-    <item>
-      <title>dijkstra&#39;s</title>
-      <link>https://njdup.github.io/algorithms/dijkstra/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://njdup.github.io/algorithms/dijkstra/</guid>
-      <description>Look, shortest path!
-public void example() { System.out.printlin(&amp;#34;Example!&amp;#34;); } </description>
-    </item>
-    
-    <item>
-      <title>mind blowing math</title>
-      <link>https://njdup.github.io/math/fancyequation/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://njdup.github.io/math/fancyequation/</guid>
-      <description>x + 1 &amp;gt; x</description>
-    </item>
-    
-    <item>
-      <title>My computer learned to walk</title>
-      <link>https://njdup.github.io/machinelearningai/mycomputerlearnedtowalk/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://njdup.github.io/machinelearningai/mycomputerlearnedtowalk/</guid>
-      <description>crazy stuffI know</description>
-    </item>
-    
-    <item>
-      <title>my first thought ever formed</title>
-      <link>https://njdup.github.io/thoughts/firstthought/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://njdup.github.io/thoughts/firstthought/</guid>
-      <description>Guess not</description>
-    </item>
-    
-    <item>
-      <title>Huh?</title>
+      <title>About Me</title>
       <link>https://njdup.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://njdup.github.io/about/</guid>
-      <description>This is where I scream into the void</description>
+      <description>I graduated from Stanford with a B.S. in Computer Science in 2016, and have worked as a software engineer at the financial technology startup Addepar ever since. Starting Fall 2020, I&amp;rsquo;ll be at Princeton pursuing a Master&amp;rsquo;s in Computer Science.
+My interests run a wide gamut, encompassing the development of safe and fair artificial intelligence, the analysis and design of algorithms, and the application of each to public health and environmental management.</description>
     </item>
     
   </channel>
