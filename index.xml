@@ -21,5 +21,14 @@
 My interests run a wide gamut, encompassing the development of safe and fair artificial intelligence, the analysis and design of algorithms, and the application of each to public health and environmental management.</description>
     </item>
     
+    <item>
+      <title>This is a test</title>
+      <link>https://njdup.github.io/algorithms/test/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://njdup.github.io/algorithms/test/</guid>
+      <description>public void example() { System.out.printlin(&amp;#34;Test!&amp;#34;); } </description>
+    </item>
+    
   </channel>
 </rss>

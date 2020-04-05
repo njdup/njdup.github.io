@@ -13,11 +13,27 @@
   </url>
   
   <url>
-    <loc>https://njdup.github.io/categories/</loc>
+    <loc>https://njdup.github.io/algorithms/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://njdup.github.io/tags/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njdup.github.io/tags/testing/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njdup.github.io/algorithms/test/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njdup.github.io/categories/</loc>
   </url>
   
 </urlset>
