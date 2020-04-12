@@ -6,15 +6,33 @@
     <description>Recent content on nick dupoux (dupe)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate>
     
 	<atom:link href="https://njdup.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>about me</title>
+      <title>an example of research</title>
+      <link>https://njdup.github.io/research/example_research/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://njdup.github.io/research/example_research/</guid>
+      <description>public void example() { System.out.printlin(&amp;#34;It took years of research to figure this one out!&amp;#34;); } </description>
+    </item>
+    
+    <item>
+      <title>this is a test</title>
+      <link>https://njdup.github.io/algorithms/test/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://njdup.github.io/algorithms/test/</guid>
+      <description>public void example() { System.out.printlin(&amp;#34;Test!&amp;#34;); } </description>
+    </item>
+    
+    <item>
+      <title>/about/</title>
       <link>https://njdup.github.io/about/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://njdup.github.io/about/</guid>
       <description>I graduated from Stanford with a B.S. in Computer Science in 2016, and have worked as a software engineer at the financial technology startup Addepar ever since. Starting Fall 2020, I&amp;rsquo;ll be at Princeton pursuing a Master&amp;rsquo;s in Computer Science.
@@ -22,12 +40,12 @@ My interests run the gamut of computer science and its applications. They includ
     </item>
     
     <item>
-      <title>This is a test</title>
-      <link>https://njdup.github.io/algorithms/test/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      <title>/contact/</title>
+      <link>https://njdup.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://njdup.github.io/algorithms/test/</guid>
-      <description>public void example() { System.out.printlin(&amp;#34;Test!&amp;#34;); } </description>
+      <guid>https://njdup.github.io/contact/</guid>
+      <description>You can email me at ndupoux@princeton.edu or njdupe@gmail.com</description>
     </item>
     
   </channel>
