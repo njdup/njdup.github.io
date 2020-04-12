@@ -408,3 +408,10 @@ table th, table td {
         margin-top: 10px;
     }
 }
+
+/* dupe's custom CSS */
+img[src*="profilepic"] {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+ }
