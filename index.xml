@@ -1,51 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nick dupoux (dupe)</title>
+    <title>nj dupoux</title>
     <link>https://njdup.github.io/</link>
-    <description>Recent content on nick dupoux (dupe)</description>
+    <description>Recent content on nj dupoux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://njdup.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>placeholder</title>
-      <link>https://njdup.github.io/engineering/placeholder/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://njdup.github.io/engineering/placeholder/</guid>
-      <description>Wow! Nice!</description>
-    </item>
-    
-    <item>
-      <title>this is a placeholder</title>
-      <link>https://njdup.github.io/personal/placeholder/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://njdup.github.io/personal/placeholder/</guid>
-      <description>Hello!</description>
-    </item>
-    
-    <item>
-      <title>an example of research</title>
-      <link>https://njdup.github.io/research/example_research/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://njdup.github.io/research/example_research/</guid>
-      <description>public void example() { System.out.printlin(&amp;#34;It took years of research to figure this one out!&amp;#34;); } </description>
-    </item>
-    
-    <item>
-      <title>this is a test</title>
-      <link>https://njdup.github.io/algorithms/test/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://njdup.github.io/algorithms/test/</guid>
-      <description>public void example() { System.out.printlin(&amp;#34;Test!&amp;#34;); } </description>
-    </item>
     
     <item>
       <title>/about/</title>
@@ -53,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://njdup.github.io/about/</guid>
-      <description>I graduated from Stanford with a B.S. in Computer Science in 2016, and have worked as a software engineer at the financial technology startup Addepar ever since. Starting Fall 2020, I&amp;rsquo;ll be at Princeton pursuing a Master&amp;rsquo;s in Computer Science.
-My interests include the development of safe and fair artificial intelligence, the design and analysis of algorithms, and the application of both to issues of public health and environmental management. I specifically plan to use my coming time in graduate school to research machine learning interpretability and to explore ways to contribute to infectious disease research.</description>
+      <description>I graduated from Stanford with a B.S. in Computer Science in 2016, worked as a software engineer at the financial technology startup Addepar until late 2020. I&amp;rsquo;m now at Princeton pursuing a Master&amp;rsquo;s in Computer Science.
+Outside of work, I like to draw ✎, as this webpage’s subtitle suggests. The Instagram account I’ve linked to hasn’t been updated in a while, but hopefully that&amp;rsquo;s changed by the time you’re reading this.</description>
     </item>
     
     <item>
