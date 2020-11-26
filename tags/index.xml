@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on nj dupoux</title>
-    <link>https://njdup.github.io/tags/</link>
+    <link>https://www.njdupoux.com/tags/</link>
     <description>Recent content in Tags on nj dupoux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© nick dupoux 2020</copyright>
     <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://njdup.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.njdupoux.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>scifi</title>
-      <link>https://njdup.github.io/tags/scifi/</link>
+      <link>https://www.njdupoux.com/tags/scifi/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://njdup.github.io/tags/scifi/</guid>
+      <guid>https://www.njdupoux.com/tags/scifi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortstory</title>
-      <link>https://njdup.github.io/tags/shortstory/</link>
+      <link>https://www.njdupoux.com/tags/shortstory/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://njdup.github.io/tags/shortstory/</guid>
+      <guid>https://www.njdupoux.com/tags/shortstory/</guid>
       <description></description>
     </item>
     
