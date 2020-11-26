@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scifi on nj dupoux</title>
+    <link>https://njdup.github.io/tags/scifi/</link>
+    <description>Recent content in scifi on nj dupoux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://njdup.github.io/tags/scifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Other Bubble</title>
+      <link>https://njdup.github.io/stories/theotherbubble/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://njdup.github.io/stories/theotherbubble/</guid>
+      <description>No one on the news had any idea how to cover it. No neighborhood reporter or Pulitzer Prize winning journalist. No local, national, or international program. Watching the news anchors try to piece it all together was almost funny. As experts on multiverse theory laid out long-winded analogies, their wrinkled foreheads betrayed the mental gymnastics being performed by their minds.
+“So, what you’re saying is, the very fabric of our world is being absorbed into theirs?</description>
+    </item>
+    
+  </channel>
+</rss>

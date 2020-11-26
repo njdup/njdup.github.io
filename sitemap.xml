@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://njdup.github.io/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njdup.github.io/tags/scifi/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njdup.github.io/tags/shortstory/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njdup.github.io/stories/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njdup.github.io/tags/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njdup.github.io/stories/theotherbubble/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://njdup.github.io/about/</loc>
   </url>
   
@@ -12,14 +42,6 @@
   
   <url>
     <loc>https://njdup.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://njdup.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://njdup.github.io/tags/</loc>
   </url>
   
 </urlset>
