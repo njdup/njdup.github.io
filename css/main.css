@@ -1,5 +1,5 @@
 body {
-    font-family: "ubuntu", sans-serif;
+    font-family: "georgia"; /*"ubuntu", sans-serif;*/
     font-weight: 400;
     color: #333;
     line-height: 1.6;
@@ -89,7 +89,7 @@ a:hover {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: raleway,sans-serif;
+    font-family: "georgia";/*raleway,sans-serif;*/
     line-height: 1.2;
     color: #333;
     font-weight: 200;
@@ -203,6 +203,7 @@ ul {
 .header {
     margin-bottom: 20px;
     padding-bottom: 20px;
+    font-family: "ubuntu", sans-serif;
 }
 
 .header h1,
@@ -211,6 +212,7 @@ ul {
     padding: 0;
     font-size: 2rem;
     line-height: 1.3em;
+    font-family: "ubuntu", sans-serif;
 }
 
 .header h2 {
@@ -220,6 +222,7 @@ ul {
 .header nav {
     margin-top: 20px;
     border-top: 1px solid #f4f4f4;
+    font-family: "ubuntu", sans-serif;
 }
 
 .header nav ul,
@@ -332,6 +335,7 @@ ul {
     border-top: 1px solid #f4f4f4;
     padding: 20px 0;
     margin-top: 40px;
+    font-family: "ubuntu", sans-serif;
 }
 
 .page-title {
